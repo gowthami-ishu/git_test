@@ -1,2 +1,3 @@
 # git_test
-my first repo
+my first git repo
+i am gowthami here
